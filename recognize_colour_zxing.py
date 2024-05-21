@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from pyzbar.pyzbar import decode
+# from pyzbar.pyzbar import decode
 from collections import Counter
 import zxing
 
